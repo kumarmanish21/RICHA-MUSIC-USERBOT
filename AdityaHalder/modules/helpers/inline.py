@@ -26,7 +26,7 @@ Genius Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Aditya Server](https://t.me/AdityaServer).**
+🌷Powered By : [⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ‌⃝🎀🇬𝐈𝐑𝐋🇫𝐑𝐈𝐄𝐍𝐃 4𝐔 𝄗⃝❤️𔘓❥✿્᭄͜͡𝆺𝅥𝆺𝅥𝄞𝆺𝅥𝆺𝅥❷❹×➐ ¤๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡](https://t.me/joinchat/MnPFCkvcDjZCbjE09lngIw).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -47,7 +47,7 @@ Genius Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Aditya Server](https://t.me/AdityaServer).**""",
+🌷Powered By : [⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ‌⃝🎀🇬𝐈𝐑𝐋🇫𝐑𝐈𝐄𝐍𝐃 4𝐔 𝄗⃝❤️𔘓❥✿્᭄͜͡𝆺𝅥𝆺𝅥𝄞𝆺𝅥𝆺𝅥❷❹×➐ ¤๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡](https://t.me/joinchat/MnPFCkvcDjZCbjE09lngIw).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
