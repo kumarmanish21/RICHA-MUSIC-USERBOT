@@ -8,37 +8,37 @@
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://github.com/AdityaHalder/Genius-Userbot",
+    "repository": "https://github.com/kumarmanish21/RICHA-MUSIC-USERBOT",
     "stack": "container",
     "env": {
         "API_ID": {
             "description": "Enter your api id here.",
-            "value": "",
+            "value": "5700169",
             "required": true
         },
         "API_HASH": {
             "description": "Enter your api hash here.",
-            "value": "",
+            "value": "90bd34c99774dff27154fa7070795de1",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token here",
-            "value": "",
+            "value": "7133403847:AAHfpBmsO_A0jCDcrHr9fSJ8yQAOGMcGMnk",
             "required": true
         },
         "STRING_SESSION": {
             "description": "Enter your pyrogram v2 string session here.",
-            "value": "",
+            "value": "BAAYLOruV2PvnDEcwT7NBu-PkHiU4S3ZOwY5oqSggIirjRjhOVeQjrf67YnytEYbagUtqFUwHfnDNwcX6hopBAv1QS_myps9CXVFRGgJdkSqDtgb3g82-fryhnasUS0yey8vDLJrIe0rw7J1WKMOa4rvfkhYNiJKAp6E7q7bbpbxZpfPLzyqXoGAcMepYqbeyOJyanoYlNlZ1tLEFGsH51PY1nBmJxb7tqfK0NBZFWMIrRsL5W8_GFOn4CieVxqxadZVLks4nJ79KeoGQfyNpj45eoEFIpnS589oLA_oaIstdQyrgoA8May25eRbw-eSmtAPxNjopBypZbu2_YeOR6IUeQA",
             "required": true
         },
         "MONGO_DB_URL": {
             "description": "Enter your mongodb url here.",
-            "value": "",
+            "value": "mongodb+srv://pintu321sameli:pintu321sameli@cluster0.7mfyvlm.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "LOG_GROUP_ID": {
             "description": "Enter your private log group id here.",
-            "value": "",
+            "value": "-1001272712758",
             "required": true
         }
     },
